@@ -35,3 +35,5 @@ Planned components include:
 - data/       -> datasets
 - scripts/    -> R scripts
 - outputs/    -> plots and exported results
+
+Note: the public dataset included in this repository is anonymized/synthetic and intended solely for demonstration and analytical purposes.
