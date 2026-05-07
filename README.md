@@ -31,6 +31,7 @@ Planned components include:
 - Shiny (planned)
 
 # Repository Structure
-data/       -> datasets
-scripts/    -> R scripts
-outputs/    -> plots and exported results
+
+- data/       -> datasets
+- scripts/    -> R scripts
+- outputs/    -> plots and exported results
